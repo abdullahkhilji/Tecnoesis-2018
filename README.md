@@ -1,7 +1,7 @@
 # Tecnoesis-2018
 
 I was the Core team member of the web development team of Tecnoesis 2018 : Annual Techno-Management Fest of NIT Silchar and
-<br> also for the NITS Hacks 2.0, which was organised under TEQIP III and GUIST, and in association with techfest. 
+<br> also for the NITS Hacks 2.0, which was organised under TEQIP III and GUIST, and in association with the techfest. 
 <br><br><br>
 
 
