@@ -14,3 +14,6 @@ The Official Tecnoesis Website is at: http://tecnoesis.in/ <br>
 ### NITS HACKS::2.0 <br>
 Live at:  https://abdullahkhilji.github.io/Web_Development/Tecnoesis_2018/hacks.html <br>
 Officially at: http://tecnoesis.in/hacks.html <br>
+
+
+Official sites will be available till October 2019 ...
