@@ -1,0 +1,74 @@
+#is1{
+    position: absolute;
+
+    width: 24vw;
+    height: 34vw;
+    left: 5%;
+    top: 28%;
+
+
+}
+
+#is2{
+    position: absolute;
+    margin-left: 50%;
+    left: -12vw;
+    top: 28%;
+
+    width: 24vw;
+    height: 34vw;
+    z-index: 100;
+}
+
+#is3{
+    position: absolute;
+    right: 5%;
+    top: 28%;
+    width: 24vw;
+    height: 34vw;
+}
+
+@media(orientation: portrait) {
+
+    #is1{
+
+        top: 11%;
+        width: 31.104vw;
+        height: 44.064vw;
+        z-index: 100;
+        left: 34%;
+
+
+
+        margin-left: 0;
+    }
+
+    #is2{
+
+        top: 40%;
+        width: 31.104vw;
+        height: 44.064vw;
+
+        margin-left: 0;
+        left: 34%;
+    }
+
+    #is3{
+
+        top: 69%;
+        width: 31.104vw;
+        height: 44.064vw;
+        z-index: 100;
+
+        left: 34%;
+        margin-left: 0;
+
+
+    }
+
+
+
+
+}
+
+
